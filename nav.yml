@@ -29,3 +29,19 @@ nav:
               - Meeting 会议服务: Project/Webex/Webex_Request_API/03-Meeting会议服务.md
               - Voicemail 语音信箱: Project/Webex/Webex_Request_API/04-Voicemail语音信箱.md
               - 其他 Misc: Project/Webex/Webex_Request_API/05-其他Misc.md
+          - Webex 桌面端文档:
+              - Project/Webex/Webex_Docs/README.md
+              - 常用链接速查: Project/Webex/Webex_Docs/常用链接速查.md
+              - 安装与启动:
+                  - Project/Webex/Webex_Docs/安装与启动/README.md
+                  - 应用启动流程: Project/Webex/Webex_Docs/安装与启动/应用启动流程.md
+                  - MSI 安装: Project/Webex/Webex_Docs/安装与启动/MSI-安装.md
+                  - Web 安装器: Project/Webex/Webex_Docs/安装与启动/Web-安装器.md
+                  - Webex 启动器: Project/Webex/Webex_Docs/安装与启动/Webex-启动器.md
+                  - 应用内升级: Project/Webex/Webex_Docs/安装与启动/应用内升级.md
+                  - WebexApp DT: Project/Webex/Webex_Docs/安装与启动/WebexApp-DT.md
+              - 构建与流水线:
+                  - 流水线技巧: Project/Webex/Webex_Docs/构建与流水线/流水线技巧.md
+              - 监控与指标:
+                  - Dashboards: Project/Webex/Webex_Docs/监控与指标/Dashboards.md
+                  - Prejoin 与 Join 指标: Project/Webex/Webex_Docs/监控与指标/Prejoin与Join指标.md

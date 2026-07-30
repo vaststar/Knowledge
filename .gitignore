@@ -1,5 +1,8 @@
-.obsidian/
+﻿.obsidian/
 .DS_Store
 Thumbs.db
 
 .vscode/
+
+# MkDocs 构建产物
+site/

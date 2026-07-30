@@ -1,0 +1,30 @@
+# 目录结构（与配置分离）。改目录只需编辑本文件。
+# 说明：顺序、层级、显示名都在这里手动控制。
+nav:
+  - 前言: README.md
+  - 编程 Program:
+      - Markdown 语法:
+          - Program/Markdown/README.md
+          - 基础语法: Program/Markdown/基础语法.md
+          - 扩展语法: Program/Markdown/扩展语法.md
+      - CMake:
+          - Program/CMake/README.md
+          - 基础语法: Program/CMake/基础语法.md
+          - 目标与依赖: Program/CMake/目标与依赖.md
+          - 常用技巧: Program/CMake/常用技巧.md
+      - C++:
+          - Program/C++/README.md
+      - Qt:
+          - Program/QT/README.md
+  - 项目 Project:
+      - TemplateTool: Project/TemplateTool/README.md
+      - Webex:
+          - Project/Webex/README.md
+          - Webex Request API:
+              - Project/Webex/Webex_Request_API/README.md
+              - 环境变量与鉴权: Project/Webex/Webex_Request_API/00-环境变量与鉴权.md
+              - Teams 核心服务: Project/Webex/Webex_Request_API/01-Teams核心服务.md
+              - Contacts 联系人服务: Project/Webex/Webex_Request_API/02-Contacts联系人服务.md
+              - Meeting 会议服务: Project/Webex/Webex_Request_API/03-Meeting会议服务.md
+              - Voicemail 语音信箱: Project/Webex/Webex_Request_API/04-Voicemail语音信箱.md
+              - 其他 Misc: Project/Webex/Webex_Request_API/05-其他Misc.md
